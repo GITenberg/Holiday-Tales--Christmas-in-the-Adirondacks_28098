@@ -1,0 +1,37 @@
+_repo: Holiday-Tales--Christmas-in-the-Adirondacks_28098
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28098-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Murray, W. H. H. (William Henry Harrison)
+    alias: Murray, William Henry Harrison
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '6611'
+    url: http://www.gutenberg.org/2009/agents/6611
+description: Contents. -- How John Norton the trapper kept his Christmas. -- John
+  Norton's vagabond.
+gutenberg_issued: '2009-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28098'
+  lccn: '98001606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Charity -- Fiction'
+- !lcsh 'Hunger -- Fiction'
+- !lcsh 'Adirondack Mountains (N.Y.) -- Fiction'
+- !lcsh 'Dogs -- Fiction'
+- !lcsh 'Trappers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Gifts -- Fiction'
+tableOfContents: How John Norton the trapper kept his Christmas -- John Norton's vagabond.
+title: 'Holiday Tales: Christmas in the Adirondacks'
+url: http://www.gutenberg.org/ebooks/28098
