@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6611
 description: Contents. -- How John Norton the trapper kept his Christmas. -- John
   Norton's vagabond.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28098#Holiday-Tales--Christmas-in-the-Adirondacks
 gutenberg_issued: '2009-02-16'
 gutenberg_type: Text
 identifiers:
